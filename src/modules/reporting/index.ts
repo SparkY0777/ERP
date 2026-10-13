@@ -1,0 +1,1 @@
+export { ReportingModule } from './module';
